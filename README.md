@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @OdysseyGuy
+<h1 align="center">Hello, I’m @OdysseyGuy</h1>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=odysseyguy&theme=gruvbox" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odysseyguy)](https://github.com/OdysseyGuy)
 
