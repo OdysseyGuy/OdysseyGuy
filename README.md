@@ -6,14 +6,11 @@
   </a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odysseyguy)](https://github.com/OdysseyGuy)
+- I am currently expanding my knowledge about Machine Learning and Compression Algorithms.
+- Interested in IoT and embedded programming.
+- How to reach me **rikseth.dev@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odysseyguy&layout=compact&theme=gruvbox">
+</div>
