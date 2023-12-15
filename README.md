@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I’m @OdysseyGuy</h1>
+<h1 align="center">Hello, I’m OdysseyGuy</h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
