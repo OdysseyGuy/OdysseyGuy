@@ -6,7 +6,6 @@
   </a>
 </p>
 
-- I am currently expanding my knowledge about Machine Learning and Compression Algorithms.
 - Interested in IoT and embedded programming.
 - How to reach me **rikseth.dev@gmail.com**
 
