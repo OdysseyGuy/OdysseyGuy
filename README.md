@@ -6,8 +6,8 @@
   </a>
 </p>
 
-- Interested in IoT and embedded programming.
-- How to reach me **rikseth.dev@gmail.com**
+- Interested in Analog Mixed-Signal (AMS) design and Digital Signal Processing (DSP).
+- How to reach me **rikseth.acad@gmail.com**
 
 
 <div align="center">
