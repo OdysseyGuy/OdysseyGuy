@@ -1,20 +1,16 @@
-<h1 align="center">Hello, I’m OdysseyGuy</h1>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=odysseyguy&theme=gruvbox" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
-- Interested in Analog Mixed-Signal (AMS) design and Digital Signal Processing (DSP).
-- How to reach me **rikseth.acad@gmail.com**
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odysseyguy&layout=compact&theme=gruvbox">
+  <h1>Hello, I’m OdysseyGuy</h1>
+
+   [![Website](https://img.shields.io/badge/Website-rikseth.com-red?style=for-the-badge&logo=firefox)](https://rikseth.com)
+   [![Email](https://img.shields.io/badge/Email-rikseth.acad%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikseth.acad@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logoColor=white)](https://linkedin.com/in/rikseth)
 </div>
 
-<h3>Tools and Languages</h3>
+## About Me
+Electronics and Communication Engineering student interested in **hardware acceleration**, **digital signal processing**, and **FPGA-based design**.
+Currently interning at the DSP Lab, Raman Research Institute (Prof. Prabu), developing MATLAB-based test-vector workflows for FPGA digital design verification.
+
+## Tools and Languages
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
