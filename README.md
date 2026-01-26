@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I’m OdysseyGuy</h1>
+  <h1>Hello, I’m Rik Seth</h1>
 
    [![Website](https://img.shields.io/badge/Website-rikseth.com-red?style=for-the-badge&logo=firefox)](https://rikseth.com)
    [![Email](https://img.shields.io/badge/Email-rikseth.acad%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikseth.acad@gmail.com)
